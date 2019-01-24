@@ -10,7 +10,7 @@ def test_b():
     allure.attach('登录','输入密码')
     print('ccc')
     allure.attach('登录','点击登录')
-    assert 1
+    assert 0
 
 
 
